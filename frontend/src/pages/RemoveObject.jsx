@@ -5,7 +5,7 @@ import { useAuth } from '@clerk/clerk-react';
 import toast from 'react-hot-toast';
 
 axios.defaults.baseURL=import.meta.env.VITE_BASE_URL
-const Removeobject = () => {
+const RemoveObject = () => {
     const [input,setInput]=useState('')
 
     const[object,setObject]=useState('')
@@ -98,4 +98,4 @@ const Removeobject = () => {
   )
 }
 
-export default Removeobject
+export default RemoveObject
