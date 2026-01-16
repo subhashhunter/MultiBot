@@ -7,12 +7,13 @@ import WriteArticle from './pages/WriteArticle'
 import BlogTitles from './pages/BlogTitles'
 import GenerateImages from './pages/GenerateImages'
 import RemoveBackground from './pages/RemoveBackground'
-import Removeobject from './pages/Removeobject'
+
 import ReviewResume from './pages/ReviewResume'
 import Community from './pages/Community'
-import { useAuth } from '@clerk/clerk-react'
+
 
 import {Toaster} from 'react-hot-toast'
+import Removeobject from './pages/Removeobject'
 const App = () => {
 
   return (
