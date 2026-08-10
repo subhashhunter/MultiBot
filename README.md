@@ -124,8 +124,6 @@ The app will be running at `http://localhost:5173`.
 
 ## 📦 API Endpoints
 
-All protected routes require a valid JWT token in the request header.
-
 ### 🤖 AI Routes — `/api/ai`
 
 | Method | Endpoint                        | Auth | File Upload       | Description                        |
