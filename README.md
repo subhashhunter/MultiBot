@@ -2,7 +2,7 @@
 
 A full-stack AI-powered content generation platform that lets users generate articles, blog titles, images, remove image backgrounds/objects, and review resumes — all from a single interface. Built with **React.js** on the frontend and **Node.js + Express.js** on the backend, deployed live on Vercel.
 
-🔗 **Live Demo:** [multi-bot-server.vercel.app](https://multi-bot-server.vercel.app)
+🔗 **Live Demo:** [multi-bot-server.vercel.app](https://multi-bot-blond.vercel.app)
 
 ---
 
